@@ -18,7 +18,7 @@ body {
     font-family: 'League Spartan', sans-serif;
     width: 100vw;
     height: 100vh;
-    background-image: url(/assets/images/background.svg);
+    background-image: url(../assets/images/background.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-clip: padding-box;
@@ -85,7 +85,7 @@ section {
 }
 
 .number:hover::before {
-    content: url(/assets/images/barra1.svg);
+    content: url(../assets/images/barra1.svg);
     align-items: center;
 }
 
